@@ -1,0 +1,1 @@
+GET /demo com.example.DemoController.foo(request: Request, int1: Integer ?= 0, int2: Integer ?= 0, str1: String ?= null)
